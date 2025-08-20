@@ -12,7 +12,8 @@ https://docs.google.com/spreadsheets/d/1nBpdCx0DOBi1BcTt7vbbc8EsOH5HXZhTVgTmGyhs
 | bearings | 608 | not being used now | a few | 0.50 |
 | bearings | MR16287 |  | 1 | 3 |
 | bearings | 6808 |  | 1 | 2 |
-| linear rails | MGN12 C | total | 4 | 15 |
+| linear rails | MGNR12 | 300mm | 2 | 5 |
+| linear bearing | MGN12 C |  | 4 | 3 |
 | pulleys | HTD 5M 12T | width 15mm, inner D 8mm | 2 | 2 |
 | pulleys | HTD 5M belt | 750mm | 1 | 2 |
 | pulleys | HTD 5M belt | 335mm | 1 | 1 |
@@ -21,6 +22,8 @@ https://docs.google.com/spreadsheets/d/1nBpdCx0DOBi1BcTt7vbbc8EsOH5HXZhTVgTmGyhs
 | electric | 16 AWG |  |  | 1 |
 | electric | micro JST XH | 2, 3, 5 pin & wire |  | 2 |
 | electric | ALPS 8 way |  |  | 2 |
+| Screws | M3*10 | M4*10 | M8*50 |  |
+| Insert | M4 OD6 L6 | M3 OD5 L4 |  | 2 |
 
 
 Steps to install linear rails and bearings on Y Y-axis gantry:
