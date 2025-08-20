@@ -22,8 +22,8 @@ Steps to assemble the Y-axis belt part to get good tension and smoothness
 4: Use 2 M4 bolts to push the motor backwards to tension the belt. While tensioning the belt, move the gantry to feel the force needed to move it. The belt should be relatively tight, while not making too much additional friction, 
 5. Tighten 4 of the M6 bolts that hold the motor
 
-- ![alt text]([pictures\front.png](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/front.png) "front view")
+- ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/front.png "front view")
 - ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/side.jpg "picture from the side")
-- ![alt text]([pictures\top_side.webp](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/top_side.webp) "picture from the side")
-- ![alt text]([pictures\belt_tensioner.jpg](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/belt_tensioner.jpg) "Y_motor_belt")
+- ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/top_side.webp "picture from the side")
+- ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/belt_tensioner.jpg) "Y_motor_belt")
 
