@@ -16,14 +16,14 @@ Steps to install linear rails and bearings on Y Y-axis gantry:
 
 Steps to assemble the Y-axis belt part to get good tension and smoothness
 
-1: Mount the motor with 4 M6 bolts. Don't tighten them completely, because the motor needs to be moved backwards a little bit
-2: Get the pulleys and belt installed. The belt doesn't need to be super tight at this moment. Just clamp it at a position 1 tooth before it's tensioned
-3: Install the case plates (front, left side, back)
-4: Use 2 M4 bolts to push the motor backwards to tension the belt. While tensioning the belt, move the gantry to feel the force needed to move it. The belt should be relatively tight, while not making too much additional friction, 
+1. Mount the motor with 4 M6 bolts. Don't tighten them completely, because the motor needs to be moved backwards a little bit
+2. Get the pulleys and belt installed. The belt doesn't need to be super tight at this moment. Just clamp it at a position 1 tooth before it's tensioned
+3. Install the case plates (front, left side, back)
+4. Use 2 M4 bolts to push the motor backwards to tension the belt. While tensioning the belt, move the gantry to feel the force needed to move it. The belt should be relatively tight, while not making too much additional friction, 
 5. Tighten 4 of the M6 bolts that hold the motor
 
-- ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/front.png "front view")
-- ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/side.jpg "picture from the side")
-- ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/top_side.webp "picture from the side")
-- ![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/belt_tensioner.jpg) "Y_motor_belt")
+![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/front.png "front view")
+![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/side.jpg "picture from the side")
+![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/top_side.webp "picture from the side")
+![alt text](https://github.com/yuchenyan0107/FFB_Yoke/blob/main/pictures/belt_tensioner.jpg "Y_motor_belt")
 
