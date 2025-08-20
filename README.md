@@ -1,7 +1,10 @@
 # FFB_Yoke
 A 3D printable Force-Feedback Yoke for flight
 
+Developed based on VPForce Rhino with 57BLF03 motors, and it should be compatible with other 57 motors.
+
 Parts list and reference price:
+
 https://docs.google.com/spreadsheets/d/1nBpdCx0DOBi1BcTt7vbbc8EsOH5HXZhTVgTmGyhsMfY/edit?gid=0#gid=
 
 | Category | Part | Spec | Qty/Note | UnitPrice |
