@@ -1,9 +1,13 @@
 # FFB_Yoke
 A 3D printable Force-Feedback Yoke for flight
 
+Big thanks to Aggressorblue and other people from the vpforce discord community. He integrated 8020 and Gantry to this design.
+
+https://makerworld.com/en/models/1763788-ffb-yoke-case-revised-for-2080-gantry#profileId-1876684
+
 **It's forbidden to sell any part or kit of this project, no matter if it is profitable or not, without my agreement.**
 
-Modifications are welcomed, but the only way to distribute modified files (if you are going to distribute) is to make it publically available and non-profitable.
+Modifications are welcomed, but the only way to publically distribute modified files (if you are going to distribute) is to make it publically available and non-profitable.
 
 Developed based on VPForce Rhino with 57BLF03 motors, and it should be compatible with other 57 motors.
 
@@ -16,7 +20,7 @@ https://docs.google.com/spreadsheets/d/1nBpdCx0DOBi1BcTt7vbbc8EsOH5HXZhTVgTmGyhs
 | center shaft | steel shaft | D 16mm, L 350mm | 1 | 3 |
 | center shaft | STHWR 16 |  | 2 | 5 |
 | center shaft | shaft clamp | 16mm | 1 | 3 |
-| bearings | 608 | not being used now | a few | 0.50 |
+| bearings | 608 |  | 2 | 0.50 |
 | bearings | MR16287 |  | 1 | 3 |
 | bearings | 6808 |  | 1 | 2 |
 | linear rails | MGNR12 | 300mm | 2 | 5 |
